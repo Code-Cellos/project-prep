@@ -88,11 +88,11 @@ Every morning after the stand-up with the instructor, the team will have its own
 
 ### Git process
 
-All aspects of the project will be contained on GitHub and members' local machines.
-Repos will be shared and accessed on GitHub.
-All work will be done on feature branches, then pushed to dev upon team agreement. Pushing to main will be reviewed by 2 other team members.
-After cloning to local machine - from main: git checkout -b dev.
-Do not return to main until time for adding final product.
-Each day's work will be a branch off of the dev branch.
-From dev: git checkout -b <that day's feature>.
-Merges to dev will, in general, be performed around lunch time every day and before logging off for the night.
+- All aspects of the project will be contained on GitHub and members' local machines.
+- Repos will be shared and accessed on GitHub.
+- All work will be done on feature branches, then pushed to dev upon team agreement. Pushing to main will be reviewed by 2 other team members.
+- After cloning to local machine - from main: git checkout -b dev.
+- Do not return to main until time for adding final product.
+- Each day's work will be a branch off of the dev branch.
+- From dev: git checkout -b <that day's feature>.
+- Merges to dev will, in general, be performed around lunch time every day and before logging off for the night.
