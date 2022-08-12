@@ -3,6 +3,7 @@
 - Dylan Ullrich
 - Simon Son
 - Andrew Schiller
+- Marcus Hartwig
 
 ## Cooperation Plan
 
@@ -40,6 +41,8 @@ Professional competencies that Simon wants to develop greater strength:
 
 - Greater collaboration competencies
 - Ability to work with ambiguity, being okay with not being sure about something
+
+### Marcus
 
 ## Conflict Plan
 
