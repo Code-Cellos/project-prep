@@ -8,6 +8,14 @@
 
 ### Dylan
 
+Key strengths:
+
+- Setting plans in action, seeing them through
+
+Professional competencies that Dylan wants to develop greater strength in:
+
+- Technical
+
 ### Andrew
 
 Key strengths:
